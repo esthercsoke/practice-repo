@@ -1,5 +1,4 @@
-# dummy-repo
-A fake repo for my Data Science team buddies to mess around with! 
+### A fake repo for my Data Science team buddies to mess around with! 
 
 
 You will first have to set up Github on your computer:
